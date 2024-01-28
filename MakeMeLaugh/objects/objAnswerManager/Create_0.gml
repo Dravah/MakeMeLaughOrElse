@@ -46,9 +46,65 @@ global.answer_list =
 					{
 						array_delete(answers, selected_answer, 1);
 					}
-				)
+				),
 
 //////////////////////PUZZLE 2/////////////////////
+		dark: new create_answer(
+				"dark",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		award: new create_answer(
+				"award",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		queen: new create_answer(
+				"queen",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		pawn: new create_answer(
+				"pawn",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		knight: new create_answer(
+				"knight",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		rook: new create_answer(
+				"rook",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		bishop: new create_answer(
+				"bishop",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				),
+		king: new create_answer(
+				"king",
+				function()
+					{
+						array_delete(answers, selected_answer, 1);
+					}
+				)
 	}
 	
 //Create the answers
