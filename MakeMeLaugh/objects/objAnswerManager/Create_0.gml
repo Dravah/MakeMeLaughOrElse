@@ -77,7 +77,7 @@ function arrayChecker(){
 		    show_debug_message( "Right answer!" );
 			time_source = time_source_create(time_source_game, 4, time_source_units_seconds, returnToMain);
 			time_source_start(time_source);
-			objClownMovements.clownState = 4;
+			objClownMovements.clownState = 2;
 			audio_play_sound(sndVictoryLaugh, 0, false);
 		}
 	
