@@ -59,7 +59,6 @@
     {"name":"objClownMovements","order":17,"path":"objects/objClownMovements/objClownMovements.yy",},
     {"name":"objPlayBtn","order":2,"path":"objects/objPlayBtn/objPlayBtn.yy",},
     {"name":"sprTheaterBackground","order":3,"path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},
-    {"name":"roomTheatreA","order":1,"path":"rooms/roomTheatreA/roomTheatreA.yy",},
     {"name":"sndIntro","order":2,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"sndVictoryLaugh","order":5,"path":"sounds/sndVictoryLaugh/sndVictoryLaugh.yy",},
     {"name":"arrayChecker","order":1,"path":"scripts/arrayChecker/arrayChecker.yy",},
