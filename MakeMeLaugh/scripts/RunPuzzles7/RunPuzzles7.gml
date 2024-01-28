@@ -6,5 +6,9 @@ function RunPuzzleTwo(){
 	instance_create_depth();
 	instance_create_depth();
 	instance_create_depth();
+	instance_create_depth();
+	instance_create_depth();
+	instance_create_depth();
+	instance_create_depth();
 	instance_create_depth(201,395, 0, objPuzzleTextBox25);
 }

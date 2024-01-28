@@ -9,6 +9,7 @@
     {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":3,"path":"folders/Paths.yy",},
     {"name":"Puzzles","order":22,"path":"folders/Puzzles.yy",},
+    {"name":"PuzzleRmTwo","order":1,"path":"folders/Puzzles/PuzzleRmTwo.yy",},
     {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":10,"path":"folders/Sequences.yy",},
@@ -17,7 +18,6 @@
     {"name":"Buttons","order":15,"path":"folders/Sprites/Buttons.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-    {"name":"PuzzleRmTwo","order":1,"path":"folders/Puzzles/PuzzleRmTwo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"objQuestionBoard","order":16,"path":"objects/objQuestionBoard/objQuestionBoard.yy",},
