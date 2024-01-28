@@ -98,7 +98,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"roomMainMenuA","path":"rooms/roomMainMenuA/roomMainMenuA.yy",},},
     {"roomId":{"name":"roomTheatreA3","path":"rooms/roomTheatreA3/roomTheatreA3.yy",},},
-    {"roomId":{"name":"roomTheatreA","path":"rooms/roomTheatreA/roomTheatreA.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
