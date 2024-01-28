@@ -6,5 +6,5 @@ function RunPuzzleOne(){
 	instance_create_depth(469,68, 0, objPuzzleTree);
 	instance_create_depth(386,149, 0, objPuzzleKangaroo);
 	instance_create_depth(184,237, 0, objPuzzleBoomerang);
-	
+	instance_create_depth(201,395, 0, objPuzzleTextBox);
 }
