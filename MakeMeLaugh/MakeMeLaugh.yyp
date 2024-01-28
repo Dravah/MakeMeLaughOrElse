@@ -32,7 +32,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sndCurtains.mp4","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -42,6 +44,7 @@
     {"id":{"name":"objQuestionBoard","path":"objects/objQuestionBoard/objQuestionBoard.yy",},},
     {"id":{"name":"sprTheatreSpot","path":"sprites/sprTheatreSpot/sprTheatreSpot.yy",},},
     {"id":{"name":"roomTheatreA3","path":"rooms/roomTheatreA3/roomTheatreA3.yy",},},
+    {"id":{"name":"sndCreepyMelody","path":"sounds/sndCreepyMelody/sndCreepyMelody.yy",},},
     {"id":{"name":"objPuzzleKangaroo","path":"objects/objPuzzleKangaroo/objPuzzleKangaroo.yy",},},
     {"id":{"name":"sprCurtainClose","path":"sprites/sprCurtainClose/sprCurtainClose.yy",},},
     {"id":{"name":"objPuzzleBoomerang","path":"objects/objPuzzleBoomerang/objPuzzleBoomerang.yy",},},
@@ -60,6 +63,7 @@
     {"id":{"name":"sprUrulu","path":"sprites/sprUrulu/sprUrulu.yy",},},
     {"id":{"name":"localFuncLibrary","path":"scripts/localFuncLibrary/localFuncLibrary.yy",},},
     {"id":{"name":"startGameScript","path":"scripts/startGameScript/startGameScript.yy",},},
+    {"id":{"name":"sndCurtains","path":"sounds/sndCurtains/sndCurtains.yy",},},
     {"id":{"name":"sprPlayBtn","path":"sprites/sprPlayBtn/sprPlayBtn.yy",},},
     {"id":{"name":"answerSelect","path":"scripts/answerSelect/answerSelect.yy",},},
     {"id":{"name":"sprTree","path":"sprites/sprTree/sprTree.yy",},},

@@ -12,6 +12,7 @@ if (mouse_check_button_released(mb_left))
 	if (hovering) 
 	{
 		//audio_play_sound(snd_button, 1, false);
+		audio_play_sound(sndCurtains, 0, false);
 		startGameScript();
 	}
 	

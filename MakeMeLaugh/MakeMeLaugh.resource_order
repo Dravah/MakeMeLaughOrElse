@@ -36,6 +36,7 @@
     {"name":"objPuzzleTextBox","order":5,"path":"objects/objPuzzleTextBox/objPuzzleTextBox.yy",},
     {"name":"sprUrulu","order":3,"path":"sprites/sprUrulu/sprUrulu.yy",},
     {"name":"startGameScript","order":2,"path":"scripts/startGameScript/startGameScript.yy",},
+    {"name":"sndCurtains","order":1,"path":"sounds/sndCurtains/sndCurtains.yy",},
     {"name":"sprPlayBtn","order":2,"path":"sprites/sprPlayBtn/sprPlayBtn.yy",},
     {"name":"answerSelect","order":19,"path":"scripts/answerSelect/answerSelect.yy",},
     {"name":"sprTree","order":2,"path":"sprites/sprTree/sprTree.yy",},
