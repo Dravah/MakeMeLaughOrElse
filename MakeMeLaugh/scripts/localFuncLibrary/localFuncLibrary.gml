@@ -48,7 +48,7 @@ function openCurtains(animationSpeed){
 // Clown manerisms
 function clownFront(){
 	image_speed = 0;
-	depth = 99;
+	depth = -500;
 	draw_sprite_ext(
 					sprite_index, 
 					0, 
@@ -63,7 +63,7 @@ function clownFront(){
 
 function clownBack(){
 		image_speed = 0;
-		depth = 99;
+		depth = -500;
 			draw_sprite_ext(
 					sprite_index, 
 					 1, 
@@ -78,7 +78,7 @@ function clownBack(){
 	
 function clownSad(){
 		image_speed = 0;
-		depth = 99;
+		depth = -500;
 			draw_sprite_ext(
 					sprite_index, 
 					 4, 
@@ -93,7 +93,7 @@ function clownSad(){
 	
 function clownAngry(){
 		image_speed = 0;
-		depth = 99;
+		depth = -500;
 			draw_sprite_ext(
 					sprite_index, 
 					 3, 
@@ -108,7 +108,7 @@ function clownAngry(){
 	
 function clownHappy(){
 		image_speed = 0;
-		depth = 99;
+		depth = -500;
 			draw_sprite_ext(
 					sprite_index, 
 					 2, 

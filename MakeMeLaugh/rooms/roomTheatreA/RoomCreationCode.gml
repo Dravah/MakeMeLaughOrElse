@@ -1,1 +1,2 @@
 // RunPuzzleOne();
+stageLights();
