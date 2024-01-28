@@ -68,6 +68,7 @@
     {"id":{"name":"arrayChecker","path":"scripts/arrayChecker/arrayChecker.yy",},},
     {"id":{"name":"sprClown","path":"sprites/sprClown/sprClown.yy",},},
     {"id":{"name":"objCurtains","path":"objects/objCurtains/objCurtains.yy",},},
+    {"id":{"name":"timeCounter","path":"scripts/timeCounter/timeCounter.yy",},},
     {"id":{"name":"roomMainMenuA","path":"rooms/roomMainMenuA/roomMainMenuA.yy",},},
   ],
   "RoomOrderNodes": [

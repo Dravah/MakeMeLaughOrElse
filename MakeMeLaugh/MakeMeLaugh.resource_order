@@ -47,5 +47,6 @@
     {"name":"roomTheatreA","order":1,"path":"rooms/roomTheatreA/roomTheatreA.yy",},
     {"name":"arrayChecker","order":1,"path":"scripts/arrayChecker/arrayChecker.yy",},
     {"name":"objCurtains","order":16,"path":"objects/objCurtains/objCurtains.yy",},
+    {"name":"timeCounter","order":2,"path":"scripts/timeCounter/timeCounter.yy",},
   ],
 }
