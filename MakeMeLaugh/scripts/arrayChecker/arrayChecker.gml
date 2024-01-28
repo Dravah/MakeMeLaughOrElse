@@ -9,6 +9,7 @@ function arrayChecker(){
 	if (_a == _b)
 		{
 		    show_debug_message( "Wrong answer..." );
+			
 			objClownMovements.clownState = 3;
 			audio_play_sound(sndNotFunny, 0, false);
 		}
@@ -16,8 +17,12 @@ function arrayChecker(){
 		if (array_equals(_a, _b))
 		{
 		    show_debug_message( "Right answer!" );
+			time_source = time_source_create(time_source_game, 4, time_source_units_seconds, returnToMain);
+			time_source_start(time_source);
 			objClownMovements.clownState = 4;
 			audio_play_sound(sndVictoryLaugh, 0, false);
 		}
 	
 }
+
+function returnToMain(){room_goto(roomMainMenuA);}
