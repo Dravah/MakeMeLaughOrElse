@@ -56,7 +56,7 @@
     {"id":{"name":"sprUrulu","path":"sprites/sprUrulu/sprUrulu.yy",},},
     {"id":{"name":"localFuncLibrary","path":"scripts/localFuncLibrary/localFuncLibrary.yy",},},
     {"id":{"name":"sprPlayBtn","path":"sprites/sprPlayBtn/sprPlayBtn.yy",},},
-    {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},},
+    {"id":{"name":"answerSelect","path":"scripts/answerSelect/answerSelect.yy",},},
     {"id":{"name":"sprTree","path":"sprites/sprTree/sprTree.yy",},},
     {"id":{"name":"sprTheatreShade","path":"sprites/sprTheatreShade/sprTheatreShade.yy",},},
     {"id":{"name":"objAnswerHitbox","path":"objects/objAnswerHitbox/objAnswerHitbox.yy",},},
