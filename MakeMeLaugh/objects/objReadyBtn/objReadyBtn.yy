@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objReturnBtn",
+  "name": "objReadyBtn",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
@@ -33,8 +33,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "sprReturnBtn",
-    "path": "sprites/sprReturnBtn/sprReturnBtn.yy",
+    "name": "sprReadyBtn",
+    "path": "sprites/sprReadyBtn/sprReadyBtn.yy",
   },
   "spriteMaskId": null,
   "visible": true,

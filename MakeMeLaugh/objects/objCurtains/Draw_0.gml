@@ -1,4 +1,5 @@
-openCurtains();
+
+openCurtains(animationSpeed); 
 //closeCurtain();
 
 

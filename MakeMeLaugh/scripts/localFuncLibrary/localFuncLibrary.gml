@@ -23,10 +23,10 @@ function closeCurtain(){
 }
 
 
-function openCurtains(){
+function openCurtains(animationSpeed){
 	depth = -499;
 	sprite_index = sprCurtainOpen;
-	image_speed = 1;
+	image_speed = animationSpeed;
 	
 	draw_sprite_ext(
 			sprite_index, 
