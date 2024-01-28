@@ -102,7 +102,6 @@
     {"id":{"name":"sprReadyBtn","path":"sprites/sprReadyBtn/sprReadyBtn.yy",},},
     {"id":{"name":"objKnight","path":"objects/objKnight/objKnight.yy",},},
     {"id":{"name":"objClownMovements","path":"objects/objClownMovements/objClownMovements.yy",},},
-    {"id":{"name":"arrayChecker","path":"scripts/arrayChecker/arrayChecker.yy",},},
     {"id":{"name":"objDark","path":"objects/objDark/objDark.yy",},},
     {"id":{"name":"objBishop","path":"objects/objBishop/objBishop.yy",},},
     {"id":{"name":"objPlayBtn","path":"objects/objPlayBtn/objPlayBtn.yy",},},

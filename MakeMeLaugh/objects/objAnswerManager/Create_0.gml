@@ -126,6 +126,7 @@ function arrayChecker(){
 		    show_debug_message( "Wrong answer..." );
 			objClownMovements.clownState = 3;
 			audio_play_sound(sndNotFunny, 0, false);
+			
 		}
 
 		if (array_equals(_a, _b))
@@ -134,7 +135,10 @@ function arrayChecker(){
 			time_source = time_source_create(time_source_game, 4, time_source_units_seconds, returnToMain);
 			time_source_start(time_source);
 			objClownMovements.clownState = 2;
+			audio_stop_sound(sndNotFunny);
 			audio_play_sound(sndVictoryLaugh, 0, false);
+			
+			audio_stop_sound(sndCreepyMelody);
 		}
 	
 }

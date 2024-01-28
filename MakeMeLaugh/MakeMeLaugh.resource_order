@@ -72,7 +72,6 @@
     {"name":"sprReadyBtn","order":3,"path":"sprites/sprReadyBtn/sprReadyBtn.yy",},
     {"name":"objKnight","order":2,"path":"objects/objKnight/objKnight.yy",},
     {"name":"objClownMovements","order":17,"path":"objects/objClownMovements/objClownMovements.yy",},
-    {"name":"arrayChecker","order":4,"path":"scripts/arrayChecker/arrayChecker.yy",},
     {"name":"objDark","order":4,"path":"objects/objDark/objDark.yy",},
     {"name":"objBishop","order":8,"path":"objects/objBishop/objBishop.yy",},
     {"name":"objPlayBtn","order":2,"path":"objects/objPlayBtn/objPlayBtn.yy",},
