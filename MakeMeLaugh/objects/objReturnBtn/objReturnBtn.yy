@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MakeMeLaugh",
-    "path": "MakeMeLaugh.yyp",
+    "name": "Buttons",
+    "path": "folders/Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MakeMeLaugh",
-    "path": "MakeMeLaugh.yyp",
+    "name": "Buttons",
+    "path": "folders/Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -33,8 +33,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "sprExitBtn",
-    "path": "sprites/sprExitBtn/sprExitBtn.yy",
+    "name": "sprAnswerBtn",
+    "path": "sprites/sprAnswerBtn/sprAnswerBtn.yy",
   },
   "spriteMaskId": null,
   "visible": true,

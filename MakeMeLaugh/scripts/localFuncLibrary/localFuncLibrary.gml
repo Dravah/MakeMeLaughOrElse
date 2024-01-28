@@ -45,12 +45,13 @@ function openCurtains(animationSpeed){
 	}
 }
 
+// Clown manerisms
 function clownFront(){
 	image_speed = 0;
 	depth = 99;
 	draw_sprite_ext(
 					sprite_index, 
-					image_index, 
+					0, 
 					x, 
 					y, 
 					image_xscale, 
@@ -66,6 +67,51 @@ function clownBack(){
 			draw_sprite_ext(
 					sprite_index, 
 					 1, 
+					x, 
+					y, 
+					image_xscale, 
+					image_yscale, 
+					image_alpha, 
+					image_blend, 
+					image_alpha);
+}
+	
+function clownSad(){
+		image_speed = 0;
+		depth = 99;
+			draw_sprite_ext(
+					sprite_index, 
+					 4, 
+					x, 
+					y, 
+					image_xscale, 
+					image_yscale, 
+					image_alpha, 
+					image_blend, 
+					image_alpha);
+}
+	
+function clownAngry(){
+		image_speed = 0;
+		depth = 99;
+			draw_sprite_ext(
+					sprite_index, 
+					 3, 
+					x, 
+					y, 
+					image_xscale, 
+					image_yscale, 
+					image_alpha, 
+					image_blend, 
+					image_alpha);
+}
+	
+function clownHappy(){
+		image_speed = 0;
+		depth = 99;
+			draw_sprite_ext(
+					sprite_index, 
+					 2, 
 					x, 
 					y, 
 					image_xscale, 
