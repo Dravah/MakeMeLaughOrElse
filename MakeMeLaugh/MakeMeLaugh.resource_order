@@ -62,7 +62,6 @@
     {"name":"sprTheaterBackground","order":3,"path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},
     {"name":"sndIntro","order":2,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"sndVictoryLaugh","order":5,"path":"sounds/sndVictoryLaugh/sndVictoryLaugh.yy",},
-    {"name":"arrayChecker","order":1,"path":"scripts/arrayChecker/arrayChecker.yy",},
     {"name":"objCurtains","order":15,"path":"objects/objCurtains/objCurtains.yy",},
   ],
 }

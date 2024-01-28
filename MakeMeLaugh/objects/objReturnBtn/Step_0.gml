@@ -13,7 +13,7 @@ if (mouse_check_button_released(mb_left))
 	{
 		//audio_play_sound(snd_button, 1, false);
 		room_goto(roomMainMenuA);
-		audio_stop_sound(sndCreepyMelody);
+		audio_stop_all();
 	}
 	
 } 

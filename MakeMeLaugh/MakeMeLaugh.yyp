@@ -90,7 +90,6 @@
     {"id":{"name":"sprTheaterBackground","path":"sprites/sprTheaterBackground/sprTheaterBackground.yy",},},
     {"id":{"name":"sndIntro","path":"sounds/sndIntro/sndIntro.yy",},},
     {"id":{"name":"sndVictoryLaugh","path":"sounds/sndVictoryLaugh/sndVictoryLaugh.yy",},},
-    {"id":{"name":"arrayChecker","path":"scripts/arrayChecker/arrayChecker.yy",},},
     {"id":{"name":"sprClown","path":"sprites/sprClown/sprClown.yy",},},
     {"id":{"name":"objCurtains","path":"objects/objCurtains/objCurtains.yy",},},
     {"id":{"name":"roomMainMenuA","path":"rooms/roomMainMenuA/roomMainMenuA.yy",},},
@@ -98,6 +97,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"roomMainMenuA","path":"rooms/roomMainMenuA/roomMainMenuA.yy",},},
     {"roomId":{"name":"roomTheatreA3","path":"rooms/roomTheatreA3/roomTheatreA3.yy",},},
+    {"roomId":{"name":"roomTheatreA","path":"rooms/roomTheatreA/roomTheatreA.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
