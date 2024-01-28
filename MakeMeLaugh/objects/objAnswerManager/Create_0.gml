@@ -72,7 +72,7 @@ function arrayChecker(){
 		if (array_equals(_a, _b))
 		{
 		    show_debug_message( "Right answer!" );
-			game_end();
+			room_goto(roomMainMenuA);
 		}
 	
 }
