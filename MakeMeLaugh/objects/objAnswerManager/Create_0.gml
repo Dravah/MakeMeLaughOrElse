@@ -54,6 +54,7 @@ global.answer_list =
 //Create the answers
 answers = array_create(0);
 
+answer_max = 2;
 selected_answer = -1;
 
 sep = 160;
