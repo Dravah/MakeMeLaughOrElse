@@ -2,9 +2,9 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function RunPuzzleOne(){
 	
-	instance_create_layer(55,-5, objPuzzleUrulu,0);
-	instance_create_layer(469,68, objPuzzleTree,0);
-	instance_create_layer(386,149, objPuzzleKangaroo,0);
-	instance_create_layer(184,237, objPuzzleBoomerang,0);
+	instance_create_depth(55,-5, 0, objPuzzleUrulu);
+	instance_create_depth(469,68, 0, objPuzzleTree);
+	instance_create_depth(386,149, 0, objPuzzleKangaroo);
+	instance_create_depth(184,237, 0, objPuzzleBoomerang);
 	
 }
